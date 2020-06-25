@@ -8,4 +8,4 @@ Front-end with last react version, Node REST API following MVC Pattern.
 
 Payments handled by Braintree (PayPal).
 
-Deployment the full functioning E-commerce app to Digital Ocean clous server for production.
+Deployment the full functioning E-commerce app to Digital Ocean clouds server for production.
